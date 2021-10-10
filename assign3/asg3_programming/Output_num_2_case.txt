@@ -1,0 +1,112 @@
+2 philosopher(s) came in for a dinner.
+The philosopher 1 has started eating!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has started eating!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: If thee cannot speak, thee must be silent
+The philosopher 2 has done talking!
+The philosopher 2 has started eating!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: My number is 2
+The philosopher 2 has done talking!
+The philosopher 2 has started eating!
+The philosopher 1 has done thinking!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has started eating!
+The philosopher 2 has done thinking!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has started eating!
+The philosopher 1 has done thinking!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has started eating!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: If thee cannot speak, thee must be silent
+The philosopher 2 has done talking!
+The philosopher 2 has started eating!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has done thinking!
+The philosopher 1 has started eating!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has done thinking!
+The philosopher 2 has started eating!
+The philosopher 1 has done thinking!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has started eating!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: My number is 2
+The philosopher 2 has done talking!
+The philosopher 2 has started eating!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has done thinking!
+The philosopher 1 has started talking!
+Philosopher 1 says: If thee cannot speak, thee must be silent
+The philosopher 1 has done talking!
+The philosopher 1 has started eating!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 2 has done talking!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has started eating!
+The philosopher 1 has done thinking!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has started eating!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 2 has done talking!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has started eating!
+The philosopher 1 has done thinking!
+The philosopher 1 has started talking!
+Philosopher 1 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 1 has done talking!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has started eating!
+The philosopher 2 has done thinking!
+The philosopher 2 has started talking!
+Philosopher 2 says: 2 + 2 = 5 for extremely large values of 2...
+The philosopher 2 has done talking!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 2 has started eating!
+The philosopher 1 has done thinking!
+The philosopher 2 has done eating!
+The philosopher 2 has started thinking!
+The philosopher 1 has started eating!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 1 has done thinking!
+The philosopher 1 has started eating!
+The philosopher 1 has done eating!
+The philosopher 1 has started thinking!
+The philosopher 1 has done thinking!
+The philosopher 1 has started talking!
+Philosopher 1 says: Eh, it's not easy to be a philosopher: eat, think, talk, eat...
+The philosopher 1 has done talking!
+The philosopher 2 has done thinking!
+All philosophers have left. System terminates normally.

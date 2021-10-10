@@ -1,0 +1,36 @@
+output test case1:
+
+Terminating client sending thread -  Running time 4 milliseconds
+
+Terminating client receiving thread -  Running time 5 milliseconds
+
+Terminating server thread -  Running time 14 milliseconds
+
+Terminating network thread - Client disconnected and Server disconnected
+
+output test case2:
+
+Terminating client sending thread -  Running time 3 milliseconds
+
+Terminating client receiving thread -  Running time 4 milliseconds
+
+Terminating server thread -  Running time 13 milliseconds
+
+Terminating network thread - Client disconnected and Server disconnected
+
+output test case3:
+
+Terminating client sending thread -  Running time 3 milliseconds
+
+ Terminating client receiving thread -  Running time 5 milliseconds
+
+ Terminating server thread -  Running time 15 milliseconds
+
+ Terminating network thread - Client disconnected and Server disconnected
+
+
+Expain why there is a difference in the running times for the client and the server threads.
+
+Answer: 
+The reason is that using Thread.yield() for the client and the server threads. The thread which executes the yield() method will enter in the Runnable state from Running state. However, there are many threads with the same priority is waiting for the processor, we cannot specify which thread will get an execution chance first. Also, we cannot make sure the current thread will stop immediately.
+Because of that,  the client (send, receive) and sever threads access the CPU randomly. After a thread accesses the CPU, the context switching happened. Therefore, each thread has different probabilities to access the CPU, which causes different running times.

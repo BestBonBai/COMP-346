@@ -1,0 +1,41 @@
+
+p1_unsyncrhonized_output: 
+ Terminating client sending thread -  Running time 204 milliseconds
+ Terminating client receiving thread -  Running time 308 milliseconds
+ Terminating server thread - 1 Running time 317 milliseconds
+ Terminating server thread - 2 Running time 316 milliseconds
+
+p1_syncrhonized_output:
+(synchronized statements)
+ Terminating client sending thread -  Running time 406 milliseconds
+ Terminating client receiving thread -  Running time 607 milliseconds
+ Terminating server thread - 1 Running time 614 milliseconds
+ Terminating server thread - 2 Running time 616 milliseconds
+ 
+ (synchronized methods)
+ Terminating client sending thread -  Running time 204 milliseconds
+ Terminating client receiving thread -  Running time 307 milliseconds
+ Terminating server thread - 1 Running time 313 milliseconds
+ Terminating server thread - 2 Running time 314 milliseconds
+
+p2_semaphore_output:
+ Terminating client sending thread -  Running time 320 milliseconds
+ Terminating client receiving thread -  Running time 424 milliseconds
+ Terminating server thread - 1 Running time 467 milliseconds
+ Terminating server thread - 2 Running time 459 milliseconds
+
+
+The difference between synchronized statements and synchronized methods is that 
+the syncchronized satatements uses the lock of the object of its arguments, while synchronized methods uses the lock of 'this' object. 
+However, if the synchronized method is modified by static, the object of the lock will be 'classname.class'.
+
+synchronized statements is a little bit more complicated than synchronized methods since you have to specify a locker object.
+
+Implementing Synchronize methods would be inefficient 
+since multi-threading cannot invoke the method when a synchronize method is processing. 
+Instead, synchronized statements were implemented to ensure consistent output as well efficiency.
+
+ We set 6 semaphores (2 of them are mutexs) to lock and prevent interruptions during the process.
+ In each turn, there will be 2 semaphores involving to make sure Server and Client only operate when there is resource inside buffer
+ In addition, there is a mutex for each turn to safe guard the buffer(packet) from being accessed by 2 threads at the same time.
+ 

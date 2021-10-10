@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0dface9-feea-486d-8d26-ec3115679051" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="a2_programming" />
+  </component>
+  <component name="ProjectId" id="1jU4vOsvdXcfNjFEPn1pfbCEr68" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Concordia 2019\2020 fall\COMP 346\assignments\assign2\a2_programming\comp346pa2w2020\comp346pa2w2020" />
+      <recent name="D:\Concordia 2019\2020 fall\COMP 346\assignments\assign2\a2_programming\comp346-pa2_needed_files" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Comp346pa2driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comp346pa2w2020.Comp346pa2driver" />
+      <module name="a2_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comp346pa2w2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Comp346pa2driver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0dface9-feea-486d-8d26-ec3115679051" name="Default Changelist" comment="" />
+      <created>1603845565611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603845565611</updated>
+      <workItem from="1603845569156" duration="11902000" />
+      <workItem from="1603936561157" duration="6470000" />
+      <workItem from="1604005717572" duration="15736000" />
+      <workItem from="1604070366382" duration="725000" />
+      <workItem from="1604081682077" duration="1951000" />
+      <workItem from="1604095288335" duration="3075000" />
+      <workItem from="1604100765248" duration="925000" />
+      <workItem from="1604153291289" duration="306000" />
+      <workItem from="1604154542331" duration="4019000" />
+      <workItem from="1605135715631" duration="1250000" />
+      <workItem from="1605146667189" duration="1604000" />
+      <workItem from="1606098127851" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
